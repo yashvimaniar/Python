@@ -1,5 +1,5 @@
 # write a program to count vowels, consonants, digits, words, and symbol in given list 
-# Sample list
+
 lst = ["Hello", "World!", "123", "Python3.8"]
 
 vowels = 0
